@@ -1,4 +1,4 @@
-number=input("")
+number=int(input("\n"))
 
 if(number<0):
     print("This number is negative.")
