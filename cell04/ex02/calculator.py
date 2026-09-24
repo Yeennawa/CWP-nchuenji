@@ -1,0 +1,7 @@
+first=int(input("Give me the first number: "))
+sec=int(input("Give me the second number: "))
+print("Thank you!")
+print(f"{first} + {sec} = {first+sec}")
+print(f"{first} - {sec} = {first-sec}")
+print(f"{first} / {sec} = {first/sec}")
+print(f"{first} * {sec} = {first*sec}")
